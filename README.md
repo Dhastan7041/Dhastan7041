@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="420" />
+<img src="https://camo.githubusercontent.com/ee23bbeb1aa2d21e25aa9d7bc1f005235bdc4ab97c662cdb08a0fcb4afc35249/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f38652f63312f32663865633139643562646436626539303066346434356663333564373936362e676966" width="100%" />
 
 </div>
 
