@@ -1,0 +1,78 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="420" fill="#02040A"/>
+
+  <!-- Stars -->
+  <g fill="white" opacity="0.9">
+    <circle cx="40" cy="35" r="1"/>
+    <circle cx="95" cy="90" r="1.2"/>
+    <circle cx="160" cy="45" r="0.8"/>
+    <circle cx="230" cy="120" r="1"/>
+    <circle cx="310" cy="30" r="1.1"/>
+    <circle cx="390" cy="85" r="0.9"/>
+    <circle cx="470" cy="55" r="1"/>
+    <circle cx="550" cy="110" r="0.8"/>
+    <circle cx="630" cy="38" r="1.2"/>
+    <circle cx="700" cy="95" r="1"/>
+    <circle cx="780" cy="50" r="0.8"/>
+    <circle cx="860" cy="130" r="1.1"/>
+    <circle cx="940" cy="70" r="0.9"/>
+    <circle cx="1020" cy="35" r="1"/>
+    <circle cx="1120" cy="100" r="1.2"/>
+
+    <circle cx="70" cy="210" r="0.8"/>
+    <circle cx="150" cy="260" r="1"/>
+    <circle cx="250" cy="220" r="1.2"/>
+    <circle cx="360" cy="300" r="0.8"/>
+    <circle cx="480" cy="245" r="1"/>
+    <circle cx="590" cy="320" r="1.1"/>
+    <circle cx="690" cy="240" r="0.9"/>
+    <circle cx="810" cy="280" r="1"/>
+    <circle cx="930" cy="230" r="1.2"/>
+    <circle cx="1040" cy="310" r="0.8"/>
+    <circle cx="1150" cy="250" r="1"/>
+  </g>
+
+  <!-- Glow -->
+  <ellipse cx="600" cy="210" rx="430" ry="130" fill="#FFE81F" opacity="0.05"/>
+
+  <!-- Main text outline -->
+  <text x="600" y="175"
+        text-anchor="middle"
+        font-family="Arial Black, Impact, sans-serif"
+        font-size="86"
+        font-weight="900"
+        fill="transparent"
+        stroke="#FFE81F"
+        stroke-width="4"
+        letter-spacing="4">
+    FRANCK PLAS
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="235"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="27"
+        font-weight="700"
+        fill="#FFE81F"
+        letter-spacing="2">
+    DEVELOPER • SAP B1 • C# • SQL • HANA
+  </text>
+
+  <!-- Bottom phrase -->
+  <text x="600" y="300"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        fill="#FFFFFF"
+        opacity="0.9"
+        letter-spacing="1.5">
+    Construyendo soluciones empresariales en una galaxia de código
+  </text>
+
+  <!-- Lines -->
+  <line x1="270" y1="260" x2="930" y2="260" stroke="#FFE81F" stroke-width="2" opacity="0.8"/>
+  <line x1="390" y1="330" x2="810" y2="330" stroke="#FFE81F" stroke-width="1.5" opacity="0.5"/>
+
+</svg>
