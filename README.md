@@ -20,7 +20,7 @@
 ## ⚔️ Mi enfoque como desarrollador
 <table> <tr> <td align="center" width="120">🧠</td> <td> <b>Análisis</b><br> Antes de desarrollar, busco entender el problema, revisar el proceso real y encontrar la mejor forma de solucionarlo. </td> </tr> <tr> <td align="center">💻</td> <td> <b>Desarrollo</b><br> Construyo aplicaciones, consultas, automatizaciones e integraciones orientadas a mejorar procesos internos. </td> </tr> <tr> <td align="center">🗄️</td> <td> <b>Base de datos</b><br> Trabajo con consultas, validaciones, reportes y análisis de información en SQL Server, SAP HANA y MySQL. </td> </tr> <tr> <td align="center">⚙️</td> <td> <b>Automatización</b><br> Me enfoco en reducir tareas manuales mediante procesos automáticos, integraciones y herramientas internas. </td> </tr> </table>
 
-## 🛸 Identificación galáctica
+## 🛸 Identificación de la republica
 
 ```txt
 Nombre              : Franck Plas
